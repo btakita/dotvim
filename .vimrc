@@ -25,7 +25,8 @@ syntax enable
 if has('termguicolors') && $DISPLAY !=? ''
     set termguicolors
 endif
-" colorscheme darkblue
+"colorscheme darkblue
+"colorscheme blackboard
 color dracula
 
 " paste while in insert mode
