@@ -1,4 +1,5 @@
 " Sane vim defaults for ArchLabs
+execute pathogen#infect()
 
 " Arch defaults
 runtime! archlinux.vim
